@@ -1,0 +1,18 @@
+{
+  "name": "assisterr-daily-claimer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "雪糕战神@Hy78516012",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0",
+    "chalk": "^5.4.1",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2",
+    "tweetnacl": "^1.0.3"
+  }
+}
